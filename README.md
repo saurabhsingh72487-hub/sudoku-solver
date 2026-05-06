@@ -4,7 +4,9 @@ A full-stack Sudoku Solver application built with Node.js, Express, and JavaScri
 This project solves Sudoku puzzles and validates placements using custom solving logic and API endpoints.
 
 ---
+## 🌐 Live Demo
 
+👉 https://sudoku-solver-yvmm.onrender.com/
 ## 🚀 Features
 
 - Solve Sudoku puzzles
