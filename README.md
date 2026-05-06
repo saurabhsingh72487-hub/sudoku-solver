@@ -13,7 +13,7 @@ This project solves Sudoku puzzles and validates placements using custom solving
 - Validate puzzle placements
 - REST API support
 - Full backend validation
-- Unit & Functional tests
+- Unit & Functional test
 - Responsive frontend UI
 
 ---
