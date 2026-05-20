@@ -5,7 +5,6 @@ This project solves Sudoku puzzles and validates placements using custom solving
 
 ---
 ## 🌐 Live Demo
-
 👉 https://sudoku-solver-yvmm.onrender.com/
 ## 🚀 Features
 
