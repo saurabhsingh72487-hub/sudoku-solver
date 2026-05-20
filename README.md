@@ -15,7 +15,7 @@ This project solves Sudoku puzzles and validates placements using custom solving
 - Unit & Functional test
 - Responsive frontend UI
 
----
+
 
 ## 🛠️ Tech Stack
 
